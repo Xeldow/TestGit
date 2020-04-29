@@ -5,7 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * discovery commit3
+ * dev-commit1
+ * 2
  */
 public class MainActivity extends AppCompatActivity {
 
@@ -15,3 +16,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
