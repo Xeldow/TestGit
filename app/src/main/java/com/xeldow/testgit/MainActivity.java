@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * discovery commit1
+ * discovery commit2
  */
 public class MainActivity extends AppCompatActivity {
 
